@@ -7,6 +7,8 @@ public class Main {
         sumDigits(4);
         sumDigits(32123);
         sumDigits(-125);
+        sumDigits(16549877);
+
     }
 
     public static int sumDigits (int number) {
